@@ -1,15 +1,16 @@
 # Mapping-flowering-dynamics
 This repository comprises notebooks and files to perform a two-step framework for mapping and tracking flowering dynamics from hyperspectral datasets.
 
-Summary
+##Summary
 
 A single pixel may contain several individual plants of different species, flowers, soil, and shadows with highly variable fractional coverage of the canopy area. You can find a Jupyter notebook comprising a two-step framework for mapping and tracking flowering dynamics from hyperspectral datasets:
 
-Spectral mixture residual analysis
-Unsupervised clustering based on the Gaussian mixture model (GMM)
+- Spectral mixture residual analysis
+- Unsupervised clustering based on the Gaussian mixture model (GMM)
+
 We implemented the workflow on an open cloud computing environment (e.g., Amazon Web Service -AWS) that couples various Python libraries for imagery storage (e.g., Zarr), access (e.g., Intake), and managing multi-dimension arrays (e.g., Xarray), as described in (Lang et al., 2023). In addition, to perform the data analysis, we adapted the publicly available code posted by Sousa et al., 2022 to retrieve the mixture residual and the Gaussian Mixture module from the Scikit-learn library (Pedregosa et al., 2011) integrated with some visualization tools (e.g., hvPlot, Bokeh, matplotlib).
 
-References
+##References
 
 Lang, E., Angel, Y., & Shiklomanov, A. N. (2023). SHIFT SMCE User Guide (v2.0.2). Zenodo. https://doi.org/10.5281/zenodo.7864544
 
