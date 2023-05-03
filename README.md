@@ -1,7 +1,7 @@
 # Mapping-flowering-dynamics
 This repository comprises notebooks and files to perform a two-step framework for mapping and tracking flowering dynamics from hyperspectral datasets.
 
-# # Summary
+## Summary
 
 A single pixel may contain several individual plants of different species, flowers, soil, and shadows with highly variable fractional coverage of the canopy area. You can find a Jupyter notebook comprising a two-step framework for mapping and tracking flowering dynamics from hyperspectral datasets:
 
