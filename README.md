@@ -12,8 +12,8 @@ We implemented the workflow on an open cloud computing environment (e.g., Amazon
 
 ## References
 
-_Lang, E., Angel, Y., & Shiklomanov, A. N. (2023). SHIFT SMCE User Guide (v2.0.2). Zenodo. https://doi.org/10.5281/zenodo.7864544
+_Lang, E., Angel, Y., & Shiklomanov, A. N. (2023). SHIFT SMCE User Guide (v2.0.2). Zenodo. https://doi.org/10.5281/zenodo.7864544 _
 
-_Sousa, D., Brodrick, P., Cawse-Nicholson, K., Fisher, J. B., Pavlick, R., Small, C., & Thompson, D. R. (2022). The Spectral Mixture Residual: A Source of Low-Variance Information to Enhance the Explainability and Accuracy of Surface Biology and Geology Retrievals. Journal of Geophysical Research: Biogeosciences, 127(2), e2021JG006672. https://doi.org/10.1029/2021JG006672
+_Sousa, D., Brodrick, P., Cawse-Nicholson, K., Fisher, J. B., Pavlick, R., Small, C., & Thompson, D. R. (2022). The Spectral Mixture Residual: A Source of Low-Variance Information to Enhance the Explainability and Accuracy of Surface Biology and Geology Retrievals. Journal of Geophysical Research: Biogeosciences, 127(2), e2021JG006672. https://doi.org/10.1029/2021JG006672 _
 
-_Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, É. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12(85), 2825, https://doi.org/10.48550/arXiv.1201.0490
+_Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., & Duchesnay, É. (2011). Scikit-learn: Machine Learning in Python. Journal of Machine Learning Research, 12(85), 2825, https://doi.org/10.48550/arXiv.1201.0490 _
