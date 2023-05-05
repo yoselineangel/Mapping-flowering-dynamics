@@ -1,0 +1,64 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Mapping flowering workflow (v1.0.0)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Yoseline
+    family-names: Angel
+    email: yoseline.b.angellopez@nasa.gov
+    orcid: 'https://orcid.org/0000-0002-8377-8736'
+    affiliation: NASA Goddard Space Flight Center - UMD ESSIC
+  - given-names: Evan
+    family-names: Lang
+    email: evan.d.lang@nasa.gov
+    orcid: 'https://orcid.org/0009-0000-6683-7231'
+    affiliation: NASA Goddard Space Flight Center - SS&A
+  - given-names: Shiklomanov
+    family-names: Alexey N
+    email: alexey.shiklomanov@nasa.gov
+    affiliation: NASA Goddard Space Flight Center
+    orcid: 'https://orcid.org/0000-0003-4022-5979'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7901619
+repository-code: >-
+  https://github.com/yoselineangel/Mapping-flowering-dynamics
+abstract: >-
+  This repository comprises some ancillary data and a
+  Jupyter notebook including a two-step framework for
+  mapping and tracking flowering dynamics from hyperspectral
+  datasets:
+
+
+  -Spectral mixture residual analysis
+
+  -Unsupervised clustering based on the Gaussian mixture
+  model (GMM)
+
+
+  We implemented the workflow on an open cloud computing
+  environment (e.g., Amazon Web Service -AWS) that couples
+  various Python libraries for imagery storage (e.g., Zarr),
+  access (e.g., Intake), and managing multi-dimension arrays
+  (e.g., Xarray), as described in (Lang et al., 2023). In
+  addition, to perform the data analysis, we adapted the
+  publicly available code posted by Sousa et al., 2022 to
+  retrieve the mixture residual and the Gaussian Mixture
+  module from the Scikit-learn library (Pedregosa et al.,
+  2011) integrated with some visualization tools (e.g.,
+  hvPlot, Bokeh, matplotlib).
+keywords:
+  - Hyperspectral
+  - Imaging spectroscopy
+  - Unmixing
+  - Flowering
+  - AVIRIS
+  - Gaussian mixture
+license: GPL-3.0-or-later
+version: v1.0.0
+date-released: '2023-05-05'
