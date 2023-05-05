@@ -2,7 +2,6 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Mapping flowering workflow
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -12,12 +11,12 @@ authors:
     family-names: Angel
     email: yoseline.b.angellopez@nasa.gov
     orcid: 'https://orcid.org/0000-0002-8377-8736'
-    affiliation: NASA Goddard Space Flight Center - UMD ESSIC
+    affiliation: NASA Goddard Space Flight Center / University of Maryland College Park - ESSIC
   - given-names: Evan
     family-names: Lang
     email: evan.d.lang@nasa.gov
     orcid: 'https://orcid.org/0009-0000-6683-7231'
-    affiliation: NASA Goddard Space Flight Center - SS&A
+    affiliation: NASA Goddard Space Flight Center / Science Systems and Applications Incorporated
   - given-names: Alexey N
     family-names: Shiklomanov
     email: alexey.shiklomanov@nasa.gov
@@ -27,7 +26,7 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.7901619
 repository-code: >-
-  https://doi.org/10.5281/zenodo.7901619
+  https://github.com/yoselineangel/Mapping-flowering-dynamics
 abstract: >-
   This repository comprises some ancillary data and a
   Jupyter notebook including a two-step framework for
@@ -54,6 +53,7 @@ keywords:
   - Flowering
   - AVIRIS
   - Gaussian mixture
+title: "Mapping flowering workflow"
 license: GPL-3.0-or-later
 version: v1.0.0
 doi: 10.5281/zenodo.7901619
